@@ -165,6 +165,17 @@ section h2 {
     font-size: 18px;
 }
 
+#contact a {
+    color: #1d2671;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#contact a:hover {
+    color: #c33764;
+    text-decoration: underline;
+}
+
 footer {
     background: #111;
     color: white;
